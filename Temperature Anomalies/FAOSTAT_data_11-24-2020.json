@@ -1,0 +1,2891 @@
+[
+ {
+   "Country Code": 2,
+   "Country": "Afghanistan",
+   "M49 Code": 4,
+   "ISO2 Code": "AF",
+   "ISO3 Code": "AFG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5100,
+   "Country": "Africa",
+   "M49 Code": 2,
+   "ISO2 Code": "",
+   "ISO3 Code": "X06",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 284,
+   "Country": "Åland Islands",
+   "M49 Code": 248,
+   "ISO2 Code": "",
+   "ISO3 Code": "ALA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 3,
+   "Country": "Albania",
+   "M49 Code": 8,
+   "ISO2 Code": "AL",
+   "ISO3 Code": "ALB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 4,
+   "Country": "Algeria",
+   "M49 Code": 12,
+   "ISO2 Code": "DZ",
+   "ISO3 Code": "DZA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5,
+   "Country": "American Samoa",
+   "M49 Code": 16,
+   "ISO2 Code": "AS",
+   "ISO3 Code": "ASM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5200,
+   "Country": "Americas",
+   "M49 Code": 19,
+   "ISO2 Code": "",
+   "ISO3 Code": "X21",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 6,
+   "Country": "Andorra",
+   "M49 Code": 20,
+   "ISO2 Code": "AD",
+   "ISO3 Code": "AND",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 7,
+   "Country": "Angola",
+   "M49 Code": 24,
+   "ISO2 Code": "AO",
+   "ISO3 Code": "AGO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 258,
+   "Country": "Anguilla",
+   "M49 Code": 660,
+   "ISO2 Code": "AI",
+   "ISO3 Code": "AIA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5848,
+   "Country": "Annex I countries",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5600,
+   "Country": "Antarctic Region",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 30,
+   "Country": "Antarctica",
+   "M49 Code": 10,
+   "ISO2 Code": "AQ",
+   "ISO3 Code": "ATA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 8,
+   "Country": "Antigua and Barbuda",
+   "M49 Code": 28,
+   "ISO2 Code": "AG",
+   "ISO3 Code": "ATG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 9,
+   "Country": "Argentina",
+   "M49 Code": 32,
+   "ISO2 Code": "AR",
+   "ISO3 Code": "ARG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 1,
+   "Country": "Armenia",
+   "M49 Code": 51,
+   "ISO2 Code": "AM",
+   "ISO3 Code": "ARM",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 22,
+   "Country": "Aruba",
+   "M49 Code": 533,
+   "ISO2 Code": "AW",
+   "ISO3 Code": "ABW",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5300,
+   "Country": "Asia",
+   "M49 Code": 142,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 10,
+   "Country": "Australia",
+   "M49 Code": 36,
+   "ISO2 Code": "AU",
+   "ISO3 Code": "AUS",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5501,
+   "Country": "Australia and New Zealand",
+   "M49 Code": 53,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 11,
+   "Country": "Austria",
+   "M49 Code": 40,
+   "ISO2 Code": "AT",
+   "ISO3 Code": "AUT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 52,
+   "Country": "Azerbaijan",
+   "M49 Code": 31,
+   "ISO2 Code": "AZ",
+   "ISO3 Code": "AZE",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 12,
+   "Country": "Bahamas",
+   "M49 Code": 44,
+   "ISO2 Code": "BS",
+   "ISO3 Code": "BHS",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 13,
+   "Country": "Bahrain",
+   "M49 Code": 48,
+   "ISO2 Code": "BH",
+   "ISO3 Code": "BHR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 16,
+   "Country": "Bangladesh",
+   "M49 Code": 50,
+   "ISO2 Code": "BD",
+   "ISO3 Code": "BGD",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 14,
+   "Country": "Barbados",
+   "M49 Code": 52,
+   "ISO2 Code": "BB",
+   "ISO3 Code": "BRB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 57,
+   "Country": "Belarus",
+   "M49 Code": 112,
+   "ISO2 Code": "BY",
+   "ISO3 Code": "BLR",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 255,
+   "Country": "Belgium",
+   "M49 Code": 56,
+   "ISO2 Code": "BE",
+   "ISO3 Code": "BEL",
+   "Start Year": 2000,
+   "End Year": null
+ },
+ {
+   "Country Code": 15,
+   "Country": "Belgium-Luxembourg",
+   "M49 Code": 58,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 1999
+ },
+ {
+   "Country Code": 23,
+   "Country": "Belize",
+   "M49 Code": 84,
+   "ISO2 Code": "BZ",
+   "ISO3 Code": "BLZ",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 53,
+   "Country": "Benin",
+   "M49 Code": 204,
+   "ISO2 Code": "BJ",
+   "ISO3 Code": "BEN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 17,
+   "Country": "Bermuda",
+   "M49 Code": 60,
+   "ISO2 Code": "BM",
+   "ISO3 Code": "BMU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 18,
+   "Country": "Bhutan",
+   "M49 Code": 64,
+   "ISO2 Code": "BT",
+   "ISO3 Code": "BTN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 19,
+   "Country": "Bolivia (Plurinational State of)",
+   "M49 Code": 68,
+   "ISO2 Code": "BO",
+   "ISO3 Code": "BOL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 278,
+   "Country": "Bonaire, Sint Eustatius and Saba",
+   "M49 Code": 535,
+   "ISO2 Code": "",
+   "ISO3 Code": "BES",
+   "Start Year": 2011,
+   "End Year": null
+ },
+ {
+   "Country Code": 80,
+   "Country": "Bosnia and Herzegovina",
+   "M49 Code": 70,
+   "ISO2 Code": "BA",
+   "ISO3 Code": "BIH",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 20,
+   "Country": "Botswana",
+   "M49 Code": 72,
+   "ISO2 Code": "BW",
+   "ISO3 Code": "BWA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 31,
+   "Country": "Bouvet Island",
+   "M49 Code": 74,
+   "ISO2 Code": "BV",
+   "ISO3 Code": "BVT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 21,
+   "Country": "Brazil",
+   "M49 Code": 76,
+   "ISO2 Code": "BR",
+   "ISO3 Code": "BRA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 24,
+   "Country": "British Indian Ocean Territory",
+   "M49 Code": 86,
+   "ISO2 Code": "IO",
+   "ISO3 Code": "IOT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 239,
+   "Country": "British Virgin Islands",
+   "M49 Code": 92,
+   "ISO2 Code": "VG",
+   "ISO3 Code": "VGB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 26,
+   "Country": "Brunei Darussalam",
+   "M49 Code": 96,
+   "ISO2 Code": "BN",
+   "ISO3 Code": "BRN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 27,
+   "Country": "Bulgaria",
+   "M49 Code": 100,
+   "ISO2 Code": "BG",
+   "ISO3 Code": "BGR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 233,
+   "Country": "Burkina Faso",
+   "M49 Code": 854,
+   "ISO2 Code": "BF",
+   "ISO3 Code": "BFA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 29,
+   "Country": "Burundi",
+   "M49 Code": 108,
+   "ISO2 Code": "BI",
+   "ISO3 Code": "BDI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 35,
+   "Country": "Cabo Verde",
+   "M49 Code": 132,
+   "ISO2 Code": "CV",
+   "ISO3 Code": "CPV",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 115,
+   "Country": "Cambodia",
+   "M49 Code": 116,
+   "ISO2 Code": "KH",
+   "ISO3 Code": "KHM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 32,
+   "Country": "Cameroon",
+   "M49 Code": 120,
+   "ISO2 Code": "CM",
+   "ISO3 Code": "CMR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 33,
+   "Country": "Canada",
+   "M49 Code": 124,
+   "ISO2 Code": "CA",
+   "ISO3 Code": "CAN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5206,
+   "Country": "Caribbean",
+   "M49 Code": 29,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 36,
+   "Country": "Cayman Islands",
+   "M49 Code": 136,
+   "ISO2 Code": "KY",
+   "ISO3 Code": "CYM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 37,
+   "Country": "Central African Republic",
+   "M49 Code": 140,
+   "ISO2 Code": "CF",
+   "ISO3 Code": "CAF",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5204,
+   "Country": "Central America",
+   "M49 Code": 13,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5301,
+   "Country": "Central Asia",
+   "M49 Code": 143,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5306,
+   "Country": "Central Asia and Southern Asia",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 39,
+   "Country": "Chad",
+   "M49 Code": 148,
+   "ISO2 Code": "TD",
+   "ISO3 Code": "TCD",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 259,
+   "Country": "Channel Islands",
+   "M49 Code": 830,
+   "ISO2 Code": "",
+   "ISO3 Code": "CHA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 40,
+   "Country": "Chile",
+   "M49 Code": 152,
+   "ISO2 Code": "CL",
+   "ISO3 Code": "CHL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 351,
+   "Country": "China",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "CHN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 96,
+   "Country": "China, Hong Kong SAR",
+   "M49 Code": 344,
+   "ISO2 Code": "HK",
+   "ISO3 Code": "HKG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 128,
+   "Country": "China, Macao SAR",
+   "M49 Code": 446,
+   "ISO2 Code": "MO",
+   "ISO3 Code": "MAC",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 41,
+   "Country": "China, mainland",
+   "M49 Code": 156,
+   "ISO2 Code": "CN",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 214,
+   "Country": "China, Taiwan Province of",
+   "M49 Code": 158,
+   "ISO2 Code": "TW",
+   "ISO3 Code": "TWN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 42,
+   "Country": "Christmas Island",
+   "M49 Code": 162,
+   "ISO2 Code": "CX",
+   "ISO3 Code": "CXR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 43,
+   "Country": "Cocos (Keeling) Islands",
+   "M49 Code": 166,
+   "ISO2 Code": "CC",
+   "ISO3 Code": "CCK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 44,
+   "Country": "Colombia",
+   "M49 Code": 170,
+   "ISO2 Code": "CO",
+   "ISO3 Code": "COL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 45,
+   "Country": "Comoros",
+   "M49 Code": 174,
+   "ISO2 Code": "KM",
+   "ISO3 Code": "COM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 46,
+   "Country": "Congo",
+   "M49 Code": 178,
+   "ISO2 Code": "CG",
+   "ISO3 Code": "COG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 47,
+   "Country": "Cook Islands",
+   "M49 Code": 184,
+   "ISO2 Code": "CK",
+   "ISO3 Code": "COK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 48,
+   "Country": "Costa Rica",
+   "M49 Code": 188,
+   "ISO2 Code": "CR",
+   "ISO3 Code": "CRI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 107,
+   "Country": "Côte d'Ivoire",
+   "M49 Code": 384,
+   "ISO2 Code": "CI",
+   "ISO3 Code": "CIV",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 98,
+   "Country": "Croatia",
+   "M49 Code": 191,
+   "ISO2 Code": "HR",
+   "ISO3 Code": "HRV",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 49,
+   "Country": "Cuba",
+   "M49 Code": 192,
+   "ISO2 Code": "CU",
+   "ISO3 Code": "CUB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 279,
+   "Country": "Curaçao",
+   "M49 Code": 531,
+   "ISO2 Code": "",
+   "ISO3 Code": "CUW",
+   "Start Year": 2011,
+   "End Year": null
+ },
+ {
+   "Country Code": 50,
+   "Country": "Cyprus",
+   "M49 Code": 196,
+   "ISO2 Code": "CY",
+   "ISO3 Code": "CYP",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 167,
+   "Country": "Czechia",
+   "M49 Code": 203,
+   "ISO2 Code": "CZ",
+   "ISO3 Code": "CZE",
+   "Start Year": 1993,
+   "End Year": null
+ },
+ {
+   "Country Code": 51,
+   "Country": "Czechoslovakia",
+   "M49 Code": 200,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 1992
+ },
+ {
+   "Country Code": 116,
+   "Country": "Democratic People's Republic of Korea",
+   "M49 Code": 408,
+   "ISO2 Code": "KP",
+   "ISO3 Code": "PRK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 250,
+   "Country": "Democratic Republic of the Congo",
+   "M49 Code": 180,
+   "ISO2 Code": "CD",
+   "ISO3 Code": "COD",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 54,
+   "Country": "Denmark",
+   "M49 Code": 208,
+   "ISO2 Code": "DK",
+   "ISO3 Code": "DNK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 72,
+   "Country": "Djibouti",
+   "M49 Code": 262,
+   "ISO2 Code": "DJ",
+   "ISO3 Code": "DJI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 55,
+   "Country": "Dominica",
+   "M49 Code": 212,
+   "ISO2 Code": "DM",
+   "ISO3 Code": "DMA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 56,
+   "Country": "Dominican Republic",
+   "M49 Code": 214,
+   "ISO2 Code": "DO",
+   "ISO3 Code": "DOM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5854,
+   "Country": "East Asia (excluding China)",
+   "M49 Code": 223,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5101,
+   "Country": "Eastern Africa",
+   "M49 Code": 14,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5302,
+   "Country": "Eastern Asia",
+   "M49 Code": 30,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5307,
+   "Country": "Eastern Asia and South-eastern Asia",
+   "M49 Code": 753,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5401,
+   "Country": "Eastern Europe",
+   "M49 Code": 151,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 58,
+   "Country": "Ecuador",
+   "M49 Code": 218,
+   "ISO2 Code": "EC",
+   "ISO3 Code": "ECU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 59,
+   "Country": "Egypt",
+   "M49 Code": 818,
+   "ISO2 Code": "EG",
+   "ISO3 Code": "EGY",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 60,
+   "Country": "El Salvador",
+   "M49 Code": 222,
+   "ISO2 Code": "SV",
+   "ISO3 Code": "SLV",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 61,
+   "Country": "Equatorial Guinea",
+   "M49 Code": 226,
+   "ISO2 Code": "GQ",
+   "ISO3 Code": "GNQ",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 178,
+   "Country": "Eritrea",
+   "M49 Code": 232,
+   "ISO2 Code": "ER",
+   "ISO3 Code": "ERI",
+   "Start Year": 1993,
+   "End Year": null
+ },
+ {
+   "Country Code": 63,
+   "Country": "Estonia",
+   "M49 Code": 233,
+   "ISO2 Code": "EE",
+   "ISO3 Code": "EST",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 209,
+   "Country": "Eswatini",
+   "M49 Code": 748,
+   "ISO2 Code": "SZ",
+   "ISO3 Code": "SWZ",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 238,
+   "Country": "Ethiopia",
+   "M49 Code": 231,
+   "ISO2 Code": "ET",
+   "ISO3 Code": "ETH",
+   "Start Year": 1993,
+   "End Year": null
+ },
+ {
+   "Country Code": 62,
+   "Country": "Ethiopia PDR",
+   "M49 Code": 230,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 1992
+ },
+ {
+   "Country Code": 5400,
+   "Country": "Europe",
+   "M49 Code": 150,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5707,
+   "Country": "European Union (27)",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5706,
+   "Country": "European Union (28)",
+   "M49 Code": 97,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 65,
+   "Country": "Falkland Islands (Malvinas)",
+   "M49 Code": 238,
+   "ISO2 Code": "FK",
+   "ISO3 Code": "FLK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 64,
+   "Country": "Faroe Islands",
+   "M49 Code": 234,
+   "ISO2 Code": "FO",
+   "ISO3 Code": "FRO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 66,
+   "Country": "Fiji",
+   "M49 Code": 242,
+   "ISO2 Code": "FJ",
+   "ISO3 Code": "FJI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 67,
+   "Country": "Finland",
+   "M49 Code": 246,
+   "ISO2 Code": "FI",
+   "ISO3 Code": "FIN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 68,
+   "Country": "France",
+   "M49 Code": 250,
+   "ISO2 Code": "FR",
+   "ISO3 Code": "FRA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 69,
+   "Country": "French Guyana",
+   "M49 Code": 254,
+   "ISO2 Code": "GF",
+   "ISO3 Code": "GUF",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 70,
+   "Country": "French Polynesia",
+   "M49 Code": 258,
+   "ISO2 Code": "PF",
+   "ISO3 Code": "PYF",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 71,
+   "Country": "French Southern Territories",
+   "M49 Code": 260,
+   "ISO2 Code": "TF",
+   "ISO3 Code": "ATF",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 74,
+   "Country": "Gabon",
+   "M49 Code": 266,
+   "ISO2 Code": "GA",
+   "ISO3 Code": "GAB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 75,
+   "Country": "Gambia",
+   "M49 Code": 270,
+   "ISO2 Code": "GM",
+   "ISO3 Code": "GMB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 73,
+   "Country": "Georgia",
+   "M49 Code": 268,
+   "ISO2 Code": "GE",
+   "ISO3 Code": "GEO",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 79,
+   "Country": "Germany",
+   "M49 Code": 276,
+   "ISO2 Code": "DE",
+   "ISO3 Code": "DEU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 78,
+   "Country": "Germany Fr",
+   "M49 Code": 280,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 77,
+   "Country": "Germany Nl",
+   "M49 Code": 278,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 81,
+   "Country": "Ghana",
+   "M49 Code": 288,
+   "ISO2 Code": "GH",
+   "ISO3 Code": "GHA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 82,
+   "Country": "Gibraltar",
+   "M49 Code": 292,
+   "ISO2 Code": "GI",
+   "ISO3 Code": "GIB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 84,
+   "Country": "Greece",
+   "M49 Code": 300,
+   "ISO2 Code": "GR",
+   "ISO3 Code": "GRC",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 85,
+   "Country": "Greenland",
+   "M49 Code": 304,
+   "ISO2 Code": "GL",
+   "ISO3 Code": "GRL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 86,
+   "Country": "Grenada",
+   "M49 Code": 308,
+   "ISO2 Code": "GD",
+   "ISO3 Code": "GRD",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 87,
+   "Country": "Guadeloupe",
+   "M49 Code": 312,
+   "ISO2 Code": "GP",
+   "ISO3 Code": "GLP",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 88,
+   "Country": "Guam",
+   "M49 Code": 316,
+   "ISO2 Code": "GU",
+   "ISO3 Code": "GUM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 89,
+   "Country": "Guatemala",
+   "M49 Code": 320,
+   "ISO2 Code": "GT",
+   "ISO3 Code": "GTM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 90,
+   "Country": "Guinea",
+   "M49 Code": 324,
+   "ISO2 Code": "GN",
+   "ISO3 Code": "GIN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 175,
+   "Country": "Guinea-Bissau",
+   "M49 Code": 624,
+   "ISO2 Code": "GW",
+   "ISO3 Code": "GNB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 91,
+   "Country": "Guyana",
+   "M49 Code": 328,
+   "ISO2 Code": "GY",
+   "ISO3 Code": "GUY",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 93,
+   "Country": "Haiti",
+   "M49 Code": 332,
+   "ISO2 Code": "HT",
+   "ISO3 Code": "HTI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 92,
+   "Country": "Heard and McDonald Islands",
+   "M49 Code": 334,
+   "ISO2 Code": "HM",
+   "ISO3 Code": "HMD",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 9010,
+   "Country": "High-income economies",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 94,
+   "Country": "Holy See",
+   "M49 Code": 336,
+   "ISO2 Code": "VA",
+   "ISO3 Code": "VAT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 95,
+   "Country": "Honduras",
+   "M49 Code": 340,
+   "ISO2 Code": "HN",
+   "ISO3 Code": "HND",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 97,
+   "Country": "Hungary",
+   "M49 Code": 348,
+   "ISO2 Code": "HU",
+   "ISO3 Code": "HUN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 99,
+   "Country": "Iceland",
+   "M49 Code": 352,
+   "ISO2 Code": "IS",
+   "ISO3 Code": "ISL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 100,
+   "Country": "India",
+   "M49 Code": 356,
+   "ISO2 Code": "IN",
+   "ISO3 Code": "IND",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 101,
+   "Country": "Indonesia",
+   "M49 Code": 360,
+   "ISO2 Code": "ID",
+   "ISO3 Code": "IDN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 102,
+   "Country": "Iran (Islamic Republic of)",
+   "M49 Code": 364,
+   "ISO2 Code": "IR",
+   "ISO3 Code": "IRN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 103,
+   "Country": "Iraq",
+   "M49 Code": 368,
+   "ISO2 Code": "IQ",
+   "ISO3 Code": "IRQ",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 104,
+   "Country": "Ireland",
+   "M49 Code": 372,
+   "ISO2 Code": "IE",
+   "ISO3 Code": "IRL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 264,
+   "Country": "Isle of Man",
+   "M49 Code": 833,
+   "ISO2 Code": "IM",
+   "ISO3 Code": "IMN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 105,
+   "Country": "Israel",
+   "M49 Code": 376,
+   "ISO2 Code": "IL",
+   "ISO3 Code": "ISR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 106,
+   "Country": "Italy",
+   "M49 Code": 380,
+   "ISO2 Code": "IT",
+   "ISO3 Code": "ITA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 109,
+   "Country": "Jamaica",
+   "M49 Code": 388,
+   "ISO2 Code": "JM",
+   "ISO3 Code": "JAM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 110,
+   "Country": "Japan",
+   "M49 Code": 392,
+   "ISO2 Code": "JP",
+   "ISO3 Code": "JPN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 283,
+   "Country": "Jersey",
+   "M49 Code": 832,
+   "ISO2 Code": "",
+   "ISO3 Code": "JEY",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 111,
+   "Country": "Johnston Island",
+   "M49 Code": 396,
+   "ISO2 Code": "JT",
+   "ISO3 Code": "JTN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 112,
+   "Country": "Jordan",
+   "M49 Code": 400,
+   "ISO2 Code": "JO",
+   "ISO3 Code": "JOR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 108,
+   "Country": "Kazakhstan",
+   "M49 Code": 398,
+   "ISO2 Code": "KZ",
+   "ISO3 Code": "KAZ",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 114,
+   "Country": "Kenya",
+   "M49 Code": 404,
+   "ISO2 Code": "KE",
+   "ISO3 Code": "KEN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 83,
+   "Country": "Kiribati",
+   "M49 Code": 296,
+   "ISO2 Code": "KI",
+   "ISO3 Code": "KIR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 118,
+   "Country": "Kuwait",
+   "M49 Code": 414,
+   "ISO2 Code": "KW",
+   "ISO3 Code": "KWT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 113,
+   "Country": "Kyrgyzstan",
+   "M49 Code": 417,
+   "ISO2 Code": "KG",
+   "ISO3 Code": "KGZ",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 5802,
+   "Country": "Land Locked Developing Countries",
+   "M49 Code": 432,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 120,
+   "Country": "Lao People's Democratic Republic",
+   "M49 Code": 418,
+   "ISO2 Code": "LA",
+   "ISO3 Code": "LAO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5205,
+   "Country": "Latin America and the Caribbean",
+   "M49 Code": 419,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 119,
+   "Country": "Latvia",
+   "M49 Code": 428,
+   "ISO2 Code": "LV",
+   "ISO3 Code": "LVA",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 5801,
+   "Country": "Least Developed Countries",
+   "M49 Code": 199,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 121,
+   "Country": "Lebanon",
+   "M49 Code": 422,
+   "ISO2 Code": "LB",
+   "ISO3 Code": "LBN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 122,
+   "Country": "Lesotho",
+   "M49 Code": 426,
+   "ISO2 Code": "LS",
+   "ISO3 Code": "LSO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 123,
+   "Country": "Liberia",
+   "M49 Code": 430,
+   "ISO2 Code": "LR",
+   "ISO3 Code": "LBR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 124,
+   "Country": "Libya",
+   "M49 Code": 434,
+   "ISO2 Code": "LY",
+   "ISO3 Code": "LBY",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 125,
+   "Country": "Liechtenstein",
+   "M49 Code": 438,
+   "ISO2 Code": "LI",
+   "ISO3 Code": "LIE",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 126,
+   "Country": "Lithuania",
+   "M49 Code": 440,
+   "ISO2 Code": "LT",
+   "ISO3 Code": "LTU",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 5858,
+   "Country": "Low income economies",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5815,
+   "Country": "Low Income Food Deficit Countries",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5859,
+   "Country": "Lower-middle-income economies",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 256,
+   "Country": "Luxembourg",
+   "M49 Code": 442,
+   "ISO2 Code": "LU",
+   "ISO3 Code": "LUX",
+   "Start Year": 2000,
+   "End Year": null
+ },
+ {
+   "Country Code": 129,
+   "Country": "Madagascar",
+   "M49 Code": 450,
+   "ISO2 Code": "MG",
+   "ISO3 Code": "MDG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 130,
+   "Country": "Malawi",
+   "M49 Code": 454,
+   "ISO2 Code": "MW",
+   "ISO3 Code": "MWI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 131,
+   "Country": "Malaysia",
+   "M49 Code": 458,
+   "ISO2 Code": "MY",
+   "ISO3 Code": "MYS",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 132,
+   "Country": "Maldives",
+   "M49 Code": 462,
+   "ISO2 Code": "MV",
+   "ISO3 Code": "MDV",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 133,
+   "Country": "Mali",
+   "M49 Code": 466,
+   "ISO2 Code": "ML",
+   "ISO3 Code": "MLI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 134,
+   "Country": "Malta",
+   "M49 Code": 470,
+   "ISO2 Code": "MT",
+   "ISO3 Code": "MLT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 127,
+   "Country": "Marshall Islands",
+   "M49 Code": 584,
+   "ISO2 Code": "MH",
+   "ISO3 Code": "MHL",
+   "Start Year": 1991,
+   "End Year": null
+ },
+ {
+   "Country Code": 135,
+   "Country": "Martinique",
+   "M49 Code": 474,
+   "ISO2 Code": "MQ",
+   "ISO3 Code": "MTQ",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 136,
+   "Country": "Mauritania",
+   "M49 Code": 478,
+   "ISO2 Code": "MR",
+   "ISO3 Code": "MRT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 137,
+   "Country": "Mauritius",
+   "M49 Code": 480,
+   "ISO2 Code": "MU",
+   "ISO3 Code": "MUS",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 270,
+   "Country": "Mayotte",
+   "M49 Code": 175,
+   "ISO2 Code": "YT",
+   "ISO3 Code": "MYT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5502,
+   "Country": "Melanesia",
+   "M49 Code": 54,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 138,
+   "Country": "Mexico",
+   "M49 Code": 484,
+   "ISO2 Code": "MX",
+   "ISO3 Code": "MEX",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5503,
+   "Country": "Micronesia",
+   "M49 Code": 57,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 145,
+   "Country": "Micronesia (Federated States of)",
+   "M49 Code": 583,
+   "ISO2 Code": "FM",
+   "ISO3 Code": "FSM",
+   "Start Year": 1991,
+   "End Year": null
+ },
+ {
+   "Country Code": 5102,
+   "Country": "Middle Africa",
+   "M49 Code": 17,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 139,
+   "Country": "Midway Island",
+   "M49 Code": 488,
+   "ISO2 Code": "MI",
+   "ISO3 Code": "MID",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 140,
+   "Country": "Monaco",
+   "M49 Code": 492,
+   "ISO2 Code": "MC",
+   "ISO3 Code": "MCO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 141,
+   "Country": "Mongolia",
+   "M49 Code": 496,
+   "ISO2 Code": "MN",
+   "ISO3 Code": "MNG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 273,
+   "Country": "Montenegro",
+   "M49 Code": 499,
+   "ISO2 Code": "ME",
+   "ISO3 Code": "MNE",
+   "Start Year": 2006,
+   "End Year": null
+ },
+ {
+   "Country Code": 142,
+   "Country": "Montserrat",
+   "M49 Code": 500,
+   "ISO2 Code": "MS",
+   "ISO3 Code": "MSR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 143,
+   "Country": "Morocco",
+   "M49 Code": 504,
+   "ISO2 Code": "MA",
+   "ISO3 Code": "MAR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 144,
+   "Country": "Mozambique",
+   "M49 Code": 508,
+   "ISO2 Code": "MZ",
+   "ISO3 Code": "MOZ",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 28,
+   "Country": "Myanmar",
+   "M49 Code": 104,
+   "ISO2 Code": "MM",
+   "ISO3 Code": "MMR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 147,
+   "Country": "Namibia",
+   "M49 Code": 516,
+   "ISO2 Code": "NA",
+   "ISO3 Code": "NAM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 148,
+   "Country": "Nauru",
+   "M49 Code": 520,
+   "ISO2 Code": "NR",
+   "ISO3 Code": "NRU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 149,
+   "Country": "Nepal",
+   "M49 Code": 524,
+   "ISO2 Code": "NP",
+   "ISO3 Code": "NPL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5817,
+   "Country": "Net Food Importing Developing Countries",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 150,
+   "Country": "Netherlands",
+   "M49 Code": 528,
+   "ISO2 Code": "NL",
+   "ISO3 Code": "NLD",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 151,
+   "Country": "Netherlands Antilles (former)",
+   "M49 Code": 530,
+   "ISO2 Code": "AN",
+   "ISO3 Code": "ANT",
+   "Start Year": null,
+   "End Year": 2010
+ },
+ {
+   "Country Code": 153,
+   "Country": "New Caledonia",
+   "M49 Code": 540,
+   "ISO2 Code": "NC",
+   "ISO3 Code": "NCL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 156,
+   "Country": "New Zealand",
+   "M49 Code": 554,
+   "ISO2 Code": "NZ",
+   "ISO3 Code": "NZL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 157,
+   "Country": "Nicaragua",
+   "M49 Code": 558,
+   "ISO2 Code": "NI",
+   "ISO3 Code": "NIC",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 158,
+   "Country": "Niger",
+   "M49 Code": 562,
+   "ISO2 Code": "NE",
+   "ISO3 Code": "NER",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 159,
+   "Country": "Nigeria",
+   "M49 Code": 566,
+   "ISO2 Code": "NG",
+   "ISO3 Code": "NGA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 160,
+   "Country": "Niue",
+   "M49 Code": 570,
+   "ISO2 Code": "NU",
+   "ISO3 Code": "NIU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5849,
+   "Country": "Non-Annex I countries",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 161,
+   "Country": "Norfolk Island",
+   "M49 Code": 574,
+   "ISO2 Code": "NF",
+   "ISO3 Code": "NFK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 429,
+   "Country": "North Africa (excluding Sudan)",
+   "M49 Code": 746,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 154,
+   "Country": "North Macedonia",
+   "M49 Code": 807,
+   "ISO2 Code": "MK",
+   "ISO3 Code": "MKD",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 5103,
+   "Country": "Northern Africa",
+   "M49 Code": 15,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5203,
+   "Country": "Northern America",
+   "M49 Code": 21,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5208,
+   "Country": "Northern America and Europe",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5402,
+   "Country": "Northern Europe",
+   "M49 Code": 154,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 163,
+   "Country": "Northern Mariana Islands",
+   "M49 Code": 580,
+   "ISO2 Code": "MP",
+   "ISO3 Code": "MNP",
+   "Start Year": 1991,
+   "End Year": null
+ },
+ {
+   "Country Code": 162,
+   "Country": "Norway",
+   "M49 Code": 578,
+   "ISO2 Code": "NO",
+   "ISO3 Code": "NOR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5500,
+   "Country": "Oceania",
+   "M49 Code": 9,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5807,
+   "Country": "Oceania excluding Australia and New Zealand",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5873,
+   "Country": "OECD",
+   "M49 Code": 198,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 221,
+   "Country": "Oman",
+   "M49 Code": 512,
+   "ISO2 Code": "OM",
+   "ISO3 Code": "OMN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 164,
+   "Country": "Pacific Islands Trust Territory",
+   "M49 Code": 582,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 1990
+ },
+ {
+   "Country Code": 165,
+   "Country": "Pakistan",
+   "M49 Code": 586,
+   "ISO2 Code": "PK",
+   "ISO3 Code": "PAK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 180,
+   "Country": "Palau",
+   "M49 Code": 585,
+   "ISO2 Code": "PW",
+   "ISO3 Code": "PLW",
+   "Start Year": 1991,
+   "End Year": null
+ },
+ {
+   "Country Code": 299,
+   "Country": "Palestine",
+   "M49 Code": 275,
+   "ISO2 Code": "",
+   "ISO3 Code": "PSE",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 166,
+   "Country": "Panama",
+   "M49 Code": 591,
+   "ISO2 Code": "PA",
+   "ISO3 Code": "PAN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 168,
+   "Country": "Papua New Guinea",
+   "M49 Code": 598,
+   "ISO2 Code": "PG",
+   "ISO3 Code": "PNG",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 169,
+   "Country": "Paraguay",
+   "M49 Code": 600,
+   "ISO2 Code": "PY",
+   "ISO3 Code": "PRY",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 170,
+   "Country": "Peru",
+   "M49 Code": 604,
+   "ISO2 Code": "PE",
+   "ISO3 Code": "PER",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 171,
+   "Country": "Philippines",
+   "M49 Code": 608,
+   "ISO2 Code": "PH",
+   "ISO3 Code": "PHL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 172,
+   "Country": "Pitcairn",
+   "M49 Code": 612,
+   "ISO2 Code": "PN",
+   "ISO3 Code": "PCN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 173,
+   "Country": "Poland",
+   "M49 Code": 616,
+   "ISO2 Code": "PL",
+   "ISO3 Code": "POL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5504,
+   "Country": "Polynesia",
+   "M49 Code": 61,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 174,
+   "Country": "Portugal",
+   "M49 Code": 620,
+   "ISO2 Code": "PT",
+   "ISO3 Code": "PRT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 177,
+   "Country": "Puerto Rico",
+   "M49 Code": 630,
+   "ISO2 Code": "PR",
+   "ISO3 Code": "PRI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 179,
+   "Country": "Qatar",
+   "M49 Code": 634,
+   "ISO2 Code": "QA",
+   "ISO3 Code": "QAT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 117,
+   "Country": "Republic of Korea",
+   "M49 Code": 410,
+   "ISO2 Code": "KR",
+   "ISO3 Code": "KOR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 146,
+   "Country": "Republic of Moldova",
+   "M49 Code": 498,
+   "ISO2 Code": "MD",
+   "ISO3 Code": "MDA",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 182,
+   "Country": "Réunion",
+   "M49 Code": 638,
+   "ISO2 Code": "RE",
+   "ISO3 Code": "REU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 183,
+   "Country": "Romania",
+   "M49 Code": 642,
+   "ISO2 Code": "RO",
+   "ISO3 Code": "ROU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 185,
+   "Country": "Russian Federation",
+   "M49 Code": 643,
+   "ISO2 Code": "RU",
+   "ISO3 Code": "RUS",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 184,
+   "Country": "Rwanda",
+   "M49 Code": 646,
+   "ISO2 Code": "RW",
+   "ISO3 Code": "RWA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 282,
+   "Country": "Saint Barthélemy",
+   "M49 Code": 652,
+   "ISO2 Code": "",
+   "ISO3 Code": "BLM",
+   "Start Year": 2011,
+   "End Year": null
+ },
+ {
+   "Country Code": 187,
+   "Country": "Saint Helena, Ascension and Tristan da Cunha",
+   "M49 Code": 654,
+   "ISO2 Code": "SH",
+   "ISO3 Code": "SHN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 188,
+   "Country": "Saint Kitts and Nevis",
+   "M49 Code": 659,
+   "ISO2 Code": "KN",
+   "ISO3 Code": "KNA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 189,
+   "Country": "Saint Lucia",
+   "M49 Code": 662,
+   "ISO2 Code": "LC",
+   "ISO3 Code": "LCA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 190,
+   "Country": "Saint Pierre and Miquelon",
+   "M49 Code": 666,
+   "ISO2 Code": "PM",
+   "ISO3 Code": "SPM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 191,
+   "Country": "Saint Vincent and the Grenadines",
+   "M49 Code": 670,
+   "ISO2 Code": "VC",
+   "ISO3 Code": "VCT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 281,
+   "Country": "Saint-Martin (French part)",
+   "M49 Code": 663,
+   "ISO2 Code": "",
+   "ISO3 Code": "MAF",
+   "Start Year": 2011,
+   "End Year": null
+ },
+ {
+   "Country Code": 244,
+   "Country": "Samoa",
+   "M49 Code": 882,
+   "ISO2 Code": "WS",
+   "ISO3 Code": "WSM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 192,
+   "Country": "San Marino",
+   "M49 Code": 674,
+   "ISO2 Code": "SM",
+   "ISO3 Code": "SMR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 193,
+   "Country": "Sao Tome and Principe",
+   "M49 Code": 678,
+   "ISO2 Code": "ST",
+   "ISO3 Code": "STP",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 194,
+   "Country": "Saudi Arabia",
+   "M49 Code": 682,
+   "ISO2 Code": "SA",
+   "ISO3 Code": "SAU",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 195,
+   "Country": "Senegal",
+   "M49 Code": 686,
+   "ISO2 Code": "SN",
+   "ISO3 Code": "SEN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 272,
+   "Country": "Serbia",
+   "M49 Code": 688,
+   "ISO2 Code": "RS",
+   "ISO3 Code": "SRB",
+   "Start Year": 2006,
+   "End Year": null
+ },
+ {
+   "Country Code": 286,
+   "Country": "Serbia (excluding Kosovo)",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 186,
+   "Country": "Serbia and Montenegro",
+   "M49 Code": 891,
+   "ISO2 Code": "CS",
+   "ISO3 Code": "SCG",
+   "Start Year": 1992,
+   "End Year": 2005
+ },
+ {
+   "Country Code": 196,
+   "Country": "Seychelles",
+   "M49 Code": 690,
+   "ISO2 Code": "SC",
+   "ISO3 Code": "SYC",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 197,
+   "Country": "Sierra Leone",
+   "M49 Code": 694,
+   "ISO2 Code": "SL",
+   "ISO3 Code": "SLE",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 200,
+   "Country": "Singapore",
+   "M49 Code": 702,
+   "ISO2 Code": "SG",
+   "ISO3 Code": "SGP",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 280,
+   "Country": "Sint Maarten (Dutch part)",
+   "M49 Code": 534,
+   "ISO2 Code": "",
+   "ISO3 Code": "SXM",
+   "Start Year": 2011,
+   "End Year": null
+ },
+ {
+   "Country Code": 199,
+   "Country": "Slovakia",
+   "M49 Code": 703,
+   "ISO2 Code": "SK",
+   "ISO3 Code": "SVK",
+   "Start Year": 1993,
+   "End Year": null
+ },
+ {
+   "Country Code": 198,
+   "Country": "Slovenia",
+   "M49 Code": 705,
+   "ISO2 Code": "SI",
+   "ISO3 Code": "SVN",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 5803,
+   "Country": "Small Island Developing States",
+   "M49 Code": 722,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 25,
+   "Country": "Solomon Islands",
+   "M49 Code": 90,
+   "ISO2 Code": "SB",
+   "ISO3 Code": "SLB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 201,
+   "Country": "Somalia",
+   "M49 Code": 706,
+   "ISO2 Code": "SO",
+   "ISO3 Code": "SOM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 202,
+   "Country": "South Africa",
+   "M49 Code": 710,
+   "ISO2 Code": "ZA",
+   "ISO3 Code": "ZAF",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5207,
+   "Country": "South America",
+   "M49 Code": 5,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5855,
+   "Country": "South Asia (excluding India)",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 271,
+   "Country": "South Georgia and the South Sandwich Islands",
+   "M49 Code": 239,
+   "ISO2 Code": "GS",
+   "ISO3 Code": "SGS",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 277,
+   "Country": "South Sudan",
+   "M49 Code": 728,
+   "ISO2 Code": "SS",
+   "ISO3 Code": "SSD",
+   "Start Year": 2012,
+   "End Year": null
+ },
+ {
+   "Country Code": 5304,
+   "Country": "South-eastern Asia",
+   "M49 Code": 35,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5104,
+   "Country": "Southern Africa",
+   "M49 Code": 18,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5303,
+   "Country": "Southern Asia",
+   "M49 Code": 34,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5403,
+   "Country": "Southern Europe",
+   "M49 Code": 39,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 203,
+   "Country": "Spain",
+   "M49 Code": 724,
+   "ISO2 Code": "ES",
+   "ISO3 Code": "ESP",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 38,
+   "Country": "Sri Lanka",
+   "M49 Code": 144,
+   "ISO2 Code": "LK",
+   "ISO3 Code": "LKA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 420,
+   "Country": "Sub-Saharan Africa",
+   "M49 Code": 202,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5810,
+   "Country": "Sub-Saharan Africa (including Sudan)",
+   "M49 Code": 738,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 276,
+   "Country": "Sudan",
+   "M49 Code": 729,
+   "ISO2 Code": "SD",
+   "ISO3 Code": "SDN",
+   "Start Year": 2012,
+   "End Year": null
+ },
+ {
+   "Country Code": 206,
+   "Country": "Sudan (former)",
+   "M49 Code": 736,
+   "ISO2 Code": "SD",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 2011
+ },
+ {
+   "Country Code": 207,
+   "Country": "Suriname",
+   "M49 Code": 740,
+   "ISO2 Code": "SR",
+   "ISO3 Code": "SUR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 260,
+   "Country": "Svalbard and Jan Mayen Islands",
+   "M49 Code": 744,
+   "ISO2 Code": "SJ",
+   "ISO3 Code": "SJM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 210,
+   "Country": "Sweden",
+   "M49 Code": 752,
+   "ISO2 Code": "SE",
+   "ISO3 Code": "SWE",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 211,
+   "Country": "Switzerland",
+   "M49 Code": 756,
+   "ISO2 Code": "CH",
+   "ISO3 Code": "CHE",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 212,
+   "Country": "Syrian Arab Republic",
+   "M49 Code": 760,
+   "ISO2 Code": "SY",
+   "ISO3 Code": "SYR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 208,
+   "Country": "Tajikistan",
+   "M49 Code": 762,
+   "ISO2 Code": "TJ",
+   "ISO3 Code": "TJK",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 216,
+   "Country": "Thailand",
+   "M49 Code": 764,
+   "ISO2 Code": "TH",
+   "ISO3 Code": "THA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 176,
+   "Country": "Timor-Leste",
+   "M49 Code": 626,
+   "ISO2 Code": "TL",
+   "ISO3 Code": "TLS",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 217,
+   "Country": "Togo",
+   "M49 Code": 768,
+   "ISO2 Code": "TG",
+   "ISO3 Code": "TGO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 218,
+   "Country": "Tokelau",
+   "M49 Code": 772,
+   "ISO2 Code": "TK",
+   "ISO3 Code": "TKL",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 219,
+   "Country": "Tonga",
+   "M49 Code": 776,
+   "ISO2 Code": "TO",
+   "ISO3 Code": "TON",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 220,
+   "Country": "Trinidad and Tobago",
+   "M49 Code": 780,
+   "ISO2 Code": "TT",
+   "ISO3 Code": "TTO",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 222,
+   "Country": "Tunisia",
+   "M49 Code": 788,
+   "ISO2 Code": "TN",
+   "ISO3 Code": "TUN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 223,
+   "Country": "Turkey",
+   "M49 Code": 792,
+   "ISO2 Code": "TR",
+   "ISO3 Code": "TUR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 213,
+   "Country": "Turkmenistan",
+   "M49 Code": 795,
+   "ISO2 Code": "TM",
+   "ISO3 Code": "TKM",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 224,
+   "Country": "Turks and Caicos Islands",
+   "M49 Code": 796,
+   "ISO2 Code": "TC",
+   "ISO3 Code": "TCA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 227,
+   "Country": "Tuvalu",
+   "M49 Code": 798,
+   "ISO2 Code": "TV",
+   "ISO3 Code": "TUV",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 226,
+   "Country": "Uganda",
+   "M49 Code": 800,
+   "ISO2 Code": "UG",
+   "ISO3 Code": "UGA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 230,
+   "Country": "Ukraine",
+   "M49 Code": 804,
+   "ISO2 Code": "UA",
+   "ISO3 Code": "UKR",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 225,
+   "Country": "United Arab Emirates",
+   "M49 Code": 784,
+   "ISO2 Code": "AE",
+   "ISO3 Code": "ARE",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 229,
+   "Country": "United Kingdom of Great Britain and Northern Ireland",
+   "M49 Code": 826,
+   "ISO2 Code": "GB",
+   "ISO3 Code": "GBR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 215,
+   "Country": "United Republic of Tanzania",
+   "M49 Code": 834,
+   "ISO2 Code": "TZ",
+   "ISO3 Code": "TZA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 232,
+   "Country": "United States Minor Outlying Islands",
+   "M49 Code": 581,
+   "ISO2 Code": "UM",
+   "ISO3 Code": "UMI",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 231,
+   "Country": "United States of America",
+   "M49 Code": 840,
+   "ISO2 Code": "US",
+   "ISO3 Code": "USA",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 240,
+   "Country": "United States Virgin Islands",
+   "M49 Code": 850,
+   "ISO2 Code": "VI",
+   "ISO3 Code": "VIR",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 9011,
+   "Country": "Upper-middle-income economies",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 234,
+   "Country": "Uruguay",
+   "M49 Code": 858,
+   "ISO2 Code": "UY",
+   "ISO3 Code": "URY",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 228,
+   "Country": "USSR",
+   "M49 Code": 810,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 1991
+ },
+ {
+   "Country Code": 235,
+   "Country": "Uzbekistan",
+   "M49 Code": 860,
+   "ISO2 Code": "UZ",
+   "ISO3 Code": "UZB",
+   "Start Year": 1992,
+   "End Year": null
+ },
+ {
+   "Country Code": 155,
+   "Country": "Vanuatu",
+   "M49 Code": 548,
+   "ISO2 Code": "VU",
+   "ISO3 Code": "VUT",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 236,
+   "Country": "Venezuela (Bolivarian Republic of)",
+   "M49 Code": 862,
+   "ISO2 Code": "VE",
+   "ISO3 Code": "VEN",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 237,
+   "Country": "Viet Nam",
+   "M49 Code": 704,
+   "ISO2 Code": "VN",
+   "ISO3 Code": "VNM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 242,
+   "Country": "Wake Island",
+   "M49 Code": 872,
+   "ISO2 Code": "WK",
+   "ISO3 Code": "WAK",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 243,
+   "Country": "Wallis and Futuna Islands",
+   "M49 Code": 876,
+   "ISO2 Code": "WF",
+   "ISO3 Code": "WLF",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5105,
+   "Country": "Western Africa",
+   "M49 Code": 11,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5305,
+   "Country": "Western Asia",
+   "M49 Code": 145,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5308,
+   "Country": "Western Asia and Northern Africa",
+   "M49 Code": null,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5404,
+   "Country": "Western Europe",
+   "M49 Code": 155,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 205,
+   "Country": "Western Sahara",
+   "M49 Code": 732,
+   "ISO2 Code": "EH",
+   "ISO3 Code": "ESH",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 5000,
+   "Country": "World",
+   "M49 Code": 1,
+   "ISO2 Code": "",
+   "ISO3 Code": "X01",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 249,
+   "Country": "Yemen",
+   "M49 Code": 887,
+   "ISO2 Code": "YE",
+   "ISO3 Code": "YEM",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 246,
+   "Country": "Yemen Ar Rp",
+   "M49 Code": 886,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 247,
+   "Country": "Yemen Dem",
+   "M49 Code": 720,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 248,
+   "Country": "Yugoslav SFR",
+   "M49 Code": 890,
+   "ISO2 Code": "",
+   "ISO3 Code": "",
+   "Start Year": null,
+   "End Year": 1991
+ },
+ {
+   "Country Code": 251,
+   "Country": "Zambia",
+   "M49 Code": 894,
+   "ISO2 Code": "ZM",
+   "ISO3 Code": "ZMB",
+   "Start Year": null,
+   "End Year": null
+ },
+ {
+   "Country Code": 181,
+   "Country": "Zimbabwe",
+   "M49 Code": 716,
+   "ISO2 Code": "ZW",
+   "ISO3 Code": "ZWE",
+   "Start Year": null,
+   "End Year": null
+ }
+]
