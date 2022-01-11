@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Global Warming</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 jumbotron text-center" style="background-image: url('https://www.reforbes.com/wp-content/uploads/2020/04/450084462sst1586343795.png?quality=90&resize=940%2C400');
+        background-size: cover; background-position: center; color: black">
+          <h1>Global Warming Dashboard</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <p>Use the interactive charts below to explore the dataset</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2">
+          <div class="well">
+            <h5>Year:</h5>
+            <!-- <select id="selDataset"></select> -->
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          </div>
+         
+        </div>
+        <div class="col-md-5">
+          <div id="bar"></div>
+        </div>
+        <div class="col-md-5">
+          <div id="gauge"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+          <div id="bubble"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+<p><center>From 1969 to 2019, this graph displays the rise in temperature based on four regions of the world. 
+</center></p><p><center>According to this data, the Americas has had the highest temperature increase while Africa had the lowest. <p><center>You can use this chart, created with ApexCharts, to look at four different regions that have had temperature changes.
+
+</center></p>
+
+<title>Temperature Increase By Region</title>
+
+
+
+
+    <link href="../../assets/styles.css" rel="stylesheet" />
+
+    <style>
+      
+        #chart {
+      max-width: 650px;
+      margin: 35px auto;
+    }
+      
+    </style>
+
+    <script>
+      window.Promise ||
+        document.write(
+          '<script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"><\/script>'
+        )
+      window.Promise ||
+        document.write(
+          '<script src="https://cdn.jsdelivr.net/npm/eligrey-classlist-js-polyfill@1.2.20171210/classList.min.js"><\/script>'
+        )
+      window.Promise ||
+        document.write(
+          '<script src="https://cdn.jsdelivr.net/npm/findindex_polyfill_mdn"><\/script>'
+        )
+    </script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    
+
+    <script>
+
+      var _seed = 42;
+      Math.random = function() {
+        _seed = _seed * 16807 % 2147483647;
+        return (_seed - 1) / 2147483646;
+      };
+    </script>
+
+    
+  </head>
+
+  <body>
+     <div id="chart"></div>
+
+    <script>
+      
+        var options = {
+          series: [{
+          name: 'Europe',
+          data: [1.759, 1.21, 1.846, 0.927, 1.903, 2.361]
+        }, {
+          name: 'Africa',
+          data: [0.323, 0.559, 0.292, 0.146, 1.602, 0.759]
+        }, {
+          name: 'Asia',
+          data: [0.149, 0.069, 0.003, 1.788, 1.155, 2.099]
+        }, {
+          name: 'Amercias',
+          data: [0.359, 0.214, 0.352, 0.313, 2.564, 1.462]
+        }],
+          chart: {
+          height: 350,
+          type: 'area'
+        },
+        dataLabels: {
+          enabled: false
+        },
+        stroke: {
+          curve: 'smooth'
+        },
+        xaxis: {
+          type: 'datetime',
+          categories: ["1969", "1979", "1989", "1999", "2009", "2019"]
+        },
+        tooltip: {
+          x: {
+            format: 'dd/MM/yy HH:mm'
+          },
+        },
+        };
+
+        var chart = new ApexCharts(document.querySelector("#chart"), options);
+        chart.render();
+      
+    
+
+
+
+    </script>
+
+
+<p><center>Nasa data from 2021 that displays ocean and air temperature anomilies.
+</center></p><p><center>Created using matplot, pandas and xarray.
+
+</center></p>
+
+<img src="global_map.png" alt="global map"   width="450" 
+     height="250" />
+
+
+
+
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+      .chartMenu {
+        width: 100vw;
+        height: 40px;
+        background: #1A1A1A;
+        color: rgba(0, 0, 0, 0);
+      }
+      .chartMenu p {
+        padding: 10px;
+        font-size: 20px;
+      }
+      .chartCard {
+        width: 100vw;
+        height: calc(100vh - 40px);
+        background: rgba(0, 0, 0, 0);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .chartBox {
+        width: 700px;
+        padding: 20px;
+        border-radius: 20px;
+        border: solid 3px rgba(0, 0, 0, 0.2);
+        background: white;
+      }
+    </style>
+  </head>
+
+  <body>
+
+
+    <div class="chartMenu">
+    </div>
+    <div class="chartCard">
+      <div class="chartBox">
+        <canvas id="myChart"></canvas>
+      </div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+
+<p><center>From 1969 to 2019, this graph displays the rise in temperature globally every ten years. 
+</center></p><p><center>According to this data, the global temperature has risen by a little over 1 degree Celsius from 1969 to 2019.
+
+</center></p>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.2.1/d3.min.js" integrity="sha512-wkduu4oQG74ySorPiSRStC0Zl8rQfjr/Ty6dMvYTmjZw6RS5bferdx8TR7ynxeh79ySEp/benIFFisKofMjPbg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+
+      const chartData = 'http://localhost:8888/edit/Resources/Environment_Temperature_change_E_All_Data_NOFLAG.csv'
+
+      // parse the file from csv to JSON
+      d3.csv(chartData).then(function(datapoints){
+          console.log(datapoints)
+          const cost = [];
+          const profit = [];
+
+          for (i = 0; i < datapoints.length; i++) {
+            cost.push(datapoints[i].cost)
+            profit.push(datapoints[i].cost)
+
+          }
+        
+        });
+ console.log()
+    const data = {
+      labels: ['1969', '1979', '1989', '1999', '2009', '2019'],
+      datasets: [{
+        label: 'Temperature Changes',
+        data: [0.382428382, 0.4428129, 0.469366117, 0.704480693, 0.814530209, 1.094974982],
+        backgroundColor: [
+          'rgba(255, 26, 104, 0.2)',
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(255, 206, 86, 0.2)',
+          'rgba(75, 192, 192, 0.2)',
+          'rgba(153, 102, 255, 0.2)',
+          'rgba(0, 0, 0, 0.2)'
+        ],
+        borderColor: [
+          'rgba(255, 26, 104, 1)',
+          'rgba(54, 162, 235, 1)',
+          'rgba(255, 206, 86, 1)',
+          'rgba(75, 192, 192, 1)',
+          'rgba(153, 102, 255, 1)',
+          'rgba(0, 0, 0, 1)'
+        ],
+        borderWidth: 1
+      }]
+    };
+
+    // config 
+    const config = {
+      type: 'bar',
+      data,
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    };
+
+    // render init block
+    const myChart = new Chart(
+      document.getElementById('myChart'),
+      config
+    );
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- <script src="plots.js"></script> -->
+  <script src="charts.js"></script>
+
+</body>
+
+</html>
