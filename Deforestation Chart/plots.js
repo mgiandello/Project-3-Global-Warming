@@ -1,3 +1,8 @@
+// import {deforestation} from 'data.js';
+// let 
+// const = deforestation
+
+
 console.log(deforestation);
 
 // Initialized arrays
@@ -65,5 +70,11 @@ let layout = {
     title: "Imported Deforestation vs. Net Traded Deforesation by Country"
 }
 
+let layout2 = {
+    title: "per Capita Imported Deforestation vs. per Capita Net Traded Deforestation by Country"
+}
+
 // Render the plot to the div tag with id "plot"
-Plotly.newPlot("plot", data, layout)
+Plotly.newPlot("plot", data, layout);
+
+Plotly.newPlot("plot2", data2, layout2);
