@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Deforestation</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="defo2_plots.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 jumbotron text-center" style="background-image: url('https://www.reforbes.com/wp-content/uploads/2020/04/450084462sst1586343795.png?quality=90&resize=940%2C400');
+            background-size: cover; background-position: center; color: black">
+              <h1>Deforestation</h1>
+  
+    
+  </div>
+</body>
+
+<body>
+  <div class="container">
+
+    <h3>Trade-driven Deforestation</h3>
+    <div id="plot"></div>
+      <select id="Select Dataset">
+        <option value="Imported Deforestation">Imported Deforesation</option>
+        <option value="Net Trade Deforestation">Net Trade Deforestation</option>
+        <option value="Imported vs. NetTrade">Imported vs. Net Trade</option>
+        <option value="per Capita Imported Deforestation">per Capita Imported Deforesation</option>
+        <option value="per Capita Net Trade Deforestation">per Capita Net Trade Deforestation</option>
+        <option value="pC Imported vs. pC Net Trade">pC Imported vs. pC Net Trade</option>
+      </select>
+
+      <div id="bar"></div>
+
+      <script src="deforestation_plots.js"></script>
+      <script src="TradeDeforestation.js"></script>
+      <script src="plots.js"></script>
+      <script>
+
+        d3.json("TradeDeforestation.js", function (deforestation) (
+        
+          var canvas = d3.select("body").append("svg")
+            .attr("width", 1200)
+            .attr("height", 600)
+
+          canvas.selectAll("rect")
+            .data(deforestation)
+            .enter()
+              .append("rect")
+              .attr("width", function...)
+              .attr("height")
+
+        ))
+      </script>
+</body>
+</html>
+// <!-- First attempt at creating a dropdown menu for my datasets-->
+// <!-- <div class="container">
+//   <div class="row"> -->
+//     <!-- <div class="col-3">
+//       <div class="well">
+//         <h2></h2>
+//       </div>col-3</div>
+//     <div class="col-9">col-9</div> -->
+
+//   <!-- </div> -->
+// <!--   
+// </div> -->
+
+// <!-- Second attempt at creating a dropdown menu for my datasets-->
+// <!-- <div class="column">
+//   <h1>Change in forest area</h1>
+//   <div class="index">
+//     <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no">
+//     #document
+
+//     </iframe>
+//   </div>
+//   <h1>Imported and Net Traded Deforestation</h1>
+//   <div class="index">
+//     <iframe sandbox="allow-popups allow-scripts allow-forms allow-same-origin" src="" marginwidth="0" marginheight="0" style="height:500px;" scrolling="no"></iframe>
+//   </div>
+// </div> -->
+// </html>
