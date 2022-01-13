@@ -16,12 +16,15 @@ let perCapitaNetTradedDeforestation = []
 // for loop to populate arrays
 for (let i = 0; i < deforestation.length; i++) {
     row = deforestation[i];
-    Entity.push(row.pair);
-    Year.push(row.pair);
-    importedDeforestation.push(row.importedDeforestation);
-    netTradedDeforestation.push(row.netTradedDeforestation);
-    perCapitaImportedDeforestation.push(row.perCapitaImportedDeforestation);
-    perCapitaNetTradedDeforestation.push(row.perCapitaNetTradedDeforestation);
+
+   // console.log(row);
+
+    Entity.push(row.Entity);
+    Year.push(row.Year);
+    importedDeforestation.push(row["Imported Deforestation"]);
+    netTradedDeforestation.push(row["Net Traded Deforestation"]);
+    perCapitaImportedDeforestation.push(row["per Capita Imported Deforestation"]);
+    perCapitaNetTradedDeforestation.push(row["per Capita Net Traded Deforestation"]);
 }
 
 // Trace1 for the imported deforesation 
@@ -54,9 +57,9 @@ let trace3 = {
 // Trace4 for the per capita net traded deforesation
 let trace4 = {
     x: Entity,
-    y: perCapitaImportedDeforestation,
-    text: perCapitaImportedDeforestation,
-    name: "per Capita Imported Deforesation",
+    y: perCapitaNetTradedDeforestation,
+    text: perCapitaNetTradedDeforestation,
+    name: "per Capita Net Traded Deforesation",
     type: "bar"
 };
 
