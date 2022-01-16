@@ -4,6 +4,15 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+    <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin="" />
+
+  <!-- Leaflet JavaScript code -->
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -13,7 +22,7 @@
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	<link href="index2style.css" rel="stylesheet">
 	
-    <title>Deforestation</title>
+    <title>Natural Disasters</title>
   </head>
   <body>
     <!--Navigation-->
@@ -46,22 +55,27 @@
         </ul>
     </div>
     </div>"
-
-
     </nav>
 
     <div class="wrapper">
         <div class="container">
           <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12 jumbotron text-center" style="background-image: url('https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODkyNTg5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyNzkyMjgzOH0.E74E-mGruHZFntT76t3wPJGo_MQMHnzDCHBLUsXJ-l4/img.jpg?width=1245&quality=85&coordinates=0%2C-1%2C80%2C1&height=700');
-            background-size: 100%; background-position: center; color: black">
+            <div class="col-xs-12 col-sm-12 col-md-12 jumbotron text-center" style="background-image: url('https://userscontent2.emaze.com/images/22b0cd08-545f-4151-b873-2a22509cc7bc/7d59714d-34d7-4c1a-a1f4-cc179e1f936e.png');
+            background-size: 100%; background-position: center; color: rgb(209, 95, 156)">
               <h1>
-                  Deforestation
+                  Natural Disasters
                 </h1>
             </div>
           </div>
         </div>
-    </div>
+    <!-- The div where we'll insert our map -->
+  <div id="map"></div>
+
+  <!-- JavaScript file -->
+  <script type="text/javascript" src="logic.js"></script>
+
+    
+      </div><!--Welcome Section-->
     <div class="container-fluid padding">
       <div class="row welcome text">
           <div class="col-12">
@@ -69,19 +83,22 @@
           </div>
           <hr>
           <div class="col-12">
-          <p> In the below linked image, the red dots signify the loss of forest.  The protected areas of the Conga are shown outlined with black 
-    outline which has also experienced loss in the year 2012. </p>
+
+    <!--Link to EM-Dat public-->
+    <p> EM-DAT shows global occurences from Natural Disasters between 1900 and 2021.  Once you follow the link below and create user account,
+      you are able to choose Natural or Technological disasters, then narrow down through the subgroups. </p>
+
     
-          <p2>Once you have the link opened, please scroll in and out to view the world map to see 2012 loss of forest. </p2>
-          <br>
-    <a href="https://code.earthengine.google.com/42d2d52325e57bda8fb4c43061038615?hideCode=true" target="-blank">Congo Republic 2012</a>
+    <a href="https://public.emdat.be/mapping" target="-blank">EM-Dat International Disasters Database</a>
     <br>
 
-    <br>
+    <p> Below is a sample of information obtained through the link.</p>
 
-    <p> The 2015 global forest change shows both loss and gain in forest.  The forest cover is shown in green, the loss is indicated in red and the gain is indicated in blue.
-    </p>
-    <a href="https://code.earthengine.google.com/985afe2e5a84ad55054bd93750b57d2c?hideCode=true" target="blank" >Global forest change 2015</a>
-
+    
+      <img src="Cold Wave Disasters 1970 to 1980.png">
+      <img src="India Cold Wave 1970 to 1980.png">
+      <img src="Cold Wave Disasters 1980 to 1990.png">
+      <img src="India Cold Wave 1980 to 1990.png">
+    </div>
   </body>
 </html>
